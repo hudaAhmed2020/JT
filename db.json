@@ -1,14 +1,14 @@
-
-   [
-    {
-      "username": "p1",
-      "password": "x1234"
-      "email:"hudaa.ahmed.2020@gmail.com"
-    },
-     {
-      "username": "p2",
-      "password": "x1234"
-      "email:"hudaa.ahmed.2020@gmail.com"
-    }
-   ]
+[{
+    "username": "p1",
+    "password": "x1234",
+    "email": "huda.ahmeed.2020@gmail.com"
+}, {
+    "username": "p2",
+    "password": "x1234",
+    "email": "huda.ahmeed.2020@gmail.com"
+},  {
+   "username": "p3",
+    "password": "x1234",
+    "email": "huda.ahmeed.2020@gmail.com"
+}]
 
